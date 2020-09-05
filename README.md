@@ -1,4 +1,4 @@
-### henlo
+### hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hey there, I'm boa. I love to program and learn new stuff! You can find me on <a href="https://twitter.com/boafur">Twitter</a> and <a href="https://discord.gg/hello">Discord</a>. Apart from that I love nature and animals!
 
