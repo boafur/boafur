@@ -2,7 +2,7 @@
 
 Hey there, I'm boa. I love to program and learn new stuff! You can find me at the badges below, apart from that I love nature and animals! 
 
-<a href="https://twitter.com/boafur" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/hello) <a href="https://github.com/boafur" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/boafur" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> [![Discord](https://img.shields.io/discord/678685540639309844.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/hello) <a href="https://github.com/boafur" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 ## 🔧 Languages, what I use and tools
 
