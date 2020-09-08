@@ -14,7 +14,7 @@ Hey there, I'm boa. I love to program and learn new stuff! You can find me at th
 ## 📈 GitHub Stats
 
 <a href="https://github.com/boafur/boafur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boafur&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boafur&hide=powershell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=synthwave" />
 </a>
 <a href="https://github.com/boafur/boafur">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=boafur&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=synthwave" alt="My GitHub Stats: " />
