@@ -24,6 +24,6 @@ Hey there, I'm boa. I love to program and learn new stuff! You can find me at th
 
 ## What I'm doing
 
-I'm currently making a game in Java, when I'm done I'll post a link in this readme.
+I'm currently making a game in Java, when I'm done I'll post a link in this readme. Spoilers: It's very very simple so give me some slack. :clap:
 
 [![Winter is coming](https://forthebadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
