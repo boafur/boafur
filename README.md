@@ -24,6 +24,6 @@ Hey there, I'm boa. I love to program and learn new stuff! You can find me at th
 
 ## What I'm doing
 
-I'm currently learning C#, Java, Python, HTML, and CSS. In the future I plan to start on C++ and JavaScript.
+I'm currently making a game in Java, when I'm done I'll post a link in this readme.
 
 [![Winter is coming](https://forthebadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
