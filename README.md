@@ -4,7 +4,7 @@ Hey there, I'm boa. I love to program and learn new stuff! You can find me at th
 
 ![](https://komarev.com/ghpvc/?username=boafur&color=blueviolet)
 
-<a href="https://twitter.com/boafur" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://github.com/boafur" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> [![Discord](https://img.shields.io/discord/678685540639309844.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/hello)
+<!--<a href="https://twitter.com/boafur" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>--> <a href="https://github.com/boafur" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> [![Discord](https://img.shields.io/discord/678685540639309844.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/hello)
 
 ## 🔧 Languages, what I use and tools
 
