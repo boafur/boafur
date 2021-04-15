@@ -24,6 +24,6 @@ Hey there, I'm boa. I love to program and learn new stuff! You can find me at th
 
 ## What I'm doing
 
-Not much at the moment.
+Modding Minecraft.
 
 <!-- [![Winter is coming](https://forthebadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com) -->
