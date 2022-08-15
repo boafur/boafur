@@ -1,6 +1,6 @@
 # hello there! <img src="https://raw.githubusercontent.com/boafur/boafur/master/wave.gif" width="30px">
 
-Hey there, I'm boa. I love to program and learn new stuff! You can find me at the badges below, apart from that I love nature and animals! 
+Hey there, I'm boa. I love to program and learn new stuff! <!--You can find me at the badges below.-->
 
 <!--<a href="https://twitter.com/boafur" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>--> <!-- <a href="https://github.com/boafur" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>--> <!--[![Discord](https://img.shields.io/discord/678685540639309844.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/hello)-->
 
@@ -23,3 +23,7 @@ Hey there, I'm boa. I love to program and learn new stuff! You can find me at th
 </a>
 
 <!-- [![Winter is coming](https://forthebadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com) -->
+
+## 🎶 Spotify
+
+![Spotify Recently Played Songs](https://spotify-recently-played-readme.vercel.app/api?user=0h2gebvewt0yw99nwewty3ew5)
