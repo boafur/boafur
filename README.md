@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=boafur&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=synthwave" alt="My GitHub Stats: " />
 </a> -->
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boa&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/boafur) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foxmoss&theme=dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/boafur)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boa&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/boafur) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boafur&theme=dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/boafur)
 --- | ---
 
 ## 🎶 Spotify
